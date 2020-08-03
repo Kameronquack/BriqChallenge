@@ -1,0 +1,120 @@
+[
+    {
+        "_id": "5a6ce86e2af929789500e7e4",
+        "en": "Computer Science is no more about computers than astronomy is about telescopes.",
+        "author": "Edsger W. Dijkstra",
+        "rating": 3.5,
+        "id": "5a6ce86e2af929789500e7e4"
+    },
+    {
+        "_id": "5a6ce86e2af929789500e7d7",
+        "en": "Simplicity is prerequisite for reliability.",
+        "author": "Edsger W. Dijkstra",
+        "id": "5a6ce86e2af929789500e7d7"
+    },
+    {
+        "_id": "5a6ce86d2af929789500e7ca",
+        "en": "The computing scientist’s main challenge is not to get confused by the complexities of his own making.",
+        "author": "Edsger W. Dijkstra",
+        "rating": 2.7,
+        "id": "5a6ce86d2af929789500e7ca"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e7f3",
+        "en": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+        "author": "Edsger W. Dijkstra",
+        "rating": 3.1,
+        "id": "5a6ce86f2af929789500e7f3"
+    },
+    {
+        "_id": "5a6ce86e2af929789500e7d9",
+        "en": "A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.",
+        "author": "Edsger W. Dijkstra",
+        "rating": 4.2,
+        "id": "5a6ce86e2af929789500e7d9"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e7f8",
+        "en": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+        "author": "Tony Hoare",
+        "rating": 4,
+        "id": "5a6ce86f2af929789500e7f8"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e807",
+        "en": "The best minds of my generation are thinking about how to make people click ads.",
+        "author": "Jeff Hammerbacher",
+        "rating": 3.4,
+        "id": "5a6ce86f2af929789500e807"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e7f9",
+        "en": "The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.",
+        "author": "Edsger W. Dijkstra",
+        "rating": 3.7,
+        "id": "5a6ce86f2af929789500e7f9"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e7f5",
+        "en": "How do we convince people that in programming simplicity and clarity — in short: what mathematicians call \"elegance\" — are not a dispensable luxury, but a crucial matter that decides between success and failure?",
+        "author": "Edsger W. Dijkstra",
+        "rating": 3.3,
+        "id": "5a6ce86f2af929789500e7f5"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e80b",
+        "en": "Adding manpower to a late software project makes it later.",
+        "author": "Fred Brooks",
+        "rating": 4,
+        "id": "5a6ce86f2af929789500e80b"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e809",
+        "en": "Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.",
+        "author": "Michael Stal",
+        "rating": 2.4,
+        "id": "5a6ce86f2af929789500e809"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e815",
+        "en": "Nine women can't make a baby in one month.",
+        "author": "Fred Brooks",
+        "rating": 3.8,
+        "id": "5a6ce86f2af929789500e815"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e81a",
+        "en": "Deleted code is debugged code.",
+        "author": "Jeff Sickel",
+        "rating": 4,
+        "id": "5a6ce86f2af929789500e81a"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e826",
+        "en": "When in doubt, use brute force.",
+        "author": "Ken Thompson",
+        "rating": 4.1,
+        "id": "5a6ce86f2af929789500e826"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e814",
+        "en": "When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.",
+        "author": "Fred Brooks",
+        "rating": 3.2,
+        "id": "5a6ce86f2af929789500e814"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e816",
+        "en": "If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.",
+        "author": "Fred Brooks",
+        "rating": 2.2,
+        "id": "5a6ce86f2af929789500e816"
+    },
+    {
+        "_id": "5a6ce86f2af929789500e818",
+        "en": "Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.",
+        "author": "Fred Brooks",
+        "rating": 2.8,
+        "id": "5a6ce86f2af929789500e818"
+    }
+]
