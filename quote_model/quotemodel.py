@@ -6,7 +6,7 @@ import csv
 
 
 df = pd.read_json(
-    r'/Users/kameronquackenbush/Desktop/briq-app/test/src/data/quotes.json')
+    r'/BriqChallenge/test/src/data/quotes.json')
 
 # test data to expedite the embedding
 # df = pd.read_json(
