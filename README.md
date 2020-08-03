@@ -1,6 +1,6 @@
 # QuoteCodingChallenge
 
-## In order to run the Vue.js app, cd into the briq-app folder and run 'npm run serv' in the terminal. 
+## In order to run the Vue.js app, cd into the BriqChallenge folder and run 'npm run serv' in the terminal. 
 
 For this challenge I created a Vue.js UI that takes a randomly generated coding quote from : https://programming-quotes-api.herokuapp.com/ and displays it. The UI displays the quote as well as the author. Below the quote I implemented a rating system where the user can rate the quote on a scale from 1-5. Once the quote is rated another randomly generated quote from the API is generated and displayed.  
 
